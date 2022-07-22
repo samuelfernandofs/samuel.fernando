@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Welcome! I am a Data Engineer applying big data tools and quantum computing to finance and advanced data manipulation in Blueshift Brazil.
+
+Originally from Americana, Sao Paulo, I studied Biological Science at the Pontifical Catholic University of Campinas, and I was a research scholarship at Universidade Federal do ABC with a computational neuroscience project in partnership with IBM Brazil. Also, I am the founder of NanoX, a project for progress of advanced atomically precise manufacturing AI-driven.
+
+Passionate about plethora of topics, I am also a psychoanalyst (in training), and an avid reader in philosophy, economy, history, and literature. I advocate global impact solutions for green-technologies, life-extension, space mining, brain preservation, poverty reduction strategies, women's and minority empowerment, and moral and cognitive enhancement.
 
 ## Research Interests
 
