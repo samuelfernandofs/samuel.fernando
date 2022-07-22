@@ -54,7 +54,7 @@ I write short articles in Portuguese about behavior in light of evolution on the
 
 ## In Media Vita
 
-My personal blog where I write about psychoanalysis, mind and philosophy:
+My personal blog where I write about psychoanalysis, mind and philosophy
 
 
 
