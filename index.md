@@ -35,18 +35,11 @@ I founded Nano X in Brazil to advance the long-term progress of science and tech
 ## Publications & Talks
 
 - **Mirror Neurons Modeled Through Spike-Timing-Dependent Plasticity are Affected by Channelopathies Associated with Autism Spectrum Disorder**
-  <br> Gabriela Antunes, Samuel F Faria da Silva, Fabio M Simoes de Souza
-  <br> International Journal of Neural SystemsVol. 28, No. 05, 1750058 **2018**.
-  <br> [[Link](https://arxiv.org/pdf/2002.10211.pdf)]
-  
-- **Mirror Neurons Modeled Through Spike-Timing-Dependent Plasticity are Affected by Channelopathies Associated with Autism Spectrum Disorder**
-  <br>
-  Gabriela Antunes, Samuel F Faria da Silva, Fabio M Simoes de Souza
-  <br>
-  International Journal of Neural SystemsVol. 28, No. 05, 1750058 **2018**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)]
-
+  Gabriela Antunes, Samuel F Faria da Silva, Fabio M Simoes de Souza -
+  International Journal of Neural SystemsVol. 28, No. 05, 1750058 **2018**. [[Link](https://arxiv.org/pdf/2002.10211.pdf)]
+- **Computational Simulation of Mirror Neurons Through of the STDP** VI Scientific Initiation Meeting 2017, Federal University of ABC, Santo Andre, Sao Paulo.
+- **Mirror Neurons on Computational Condutance-Based Model and Implications with Autism** XV Brazilian Society for Neuroscience and Behavior, 2017 Araraquara, Sao Paulo.
+- **Neural Mirroring in Integrate-and-Fire Model** II Conference on Bioathematical, Unicamp, Campinas, Sao Paulo.
 
 ## Science Blogs
 
