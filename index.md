@@ -10,12 +10,14 @@ Originally from Americana, Sao Paulo, I studied Biological Science at the Pontif
 
 Passionate about plethora of topics, I am also a psychoanalyst (in training), and an avid reader in philosophy, economy, history, and literature. I advocate global impact solutions for green-technologies, life-extension, space mining, brain preservation, poverty reduction strategies, women's and minority empowerment, and moral and cognitive enhancement.
 
-## Research Interests
+## Skills
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Big data:** Data Manipulation, ETL/ELT, Data Factory, Spark/Pypark, 
+- **Analytics:** Business Inteligence, Services Analysis, DAX
+- **Languages:** Python, SQL, R
+- **Quantum Computing:** Azure Quantum, Qiskit
 
-## News
+## Research 
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
