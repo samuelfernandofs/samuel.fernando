@@ -19,14 +19,14 @@ Passionate about plethora of topics, I am also a psychoanalyst (in training), an
 
 ## Research & Projects
 
-- **Computational Neuroscience** 
+- **Computational Neuroscience** <br>
 My research project was funded by Braziliam CNPQ and Fapesp in partnership with IBM Lab and Iran in the Cognitive Computing axis. 
 Our research investigated the role of mirror neurons, using computer modeling with altered ion channels in autism and also in language processing.
 
-- **Moral Enhancement** 
+- **Moral Enhancement** <br>
 I believe in progressive human enhancement from a humanistic, liberal, inclusive and realistic point of view, through new technologies and scientifically informed strategies. That's why I'm working on a roadmap about advanced neurotechnologies and nanotechnologies for moral and cognitive enhancement, in principle in the forensic context.
 
-- **Atomically Precise Manufacturing** 
+- **Atomically Precise Manufacturing** <br>
 I founded Nano X in Brazil to advance the long-term progress of science and technology towards atomically precise manufacturing, which is the future version of molecular nanotechnology enabled for industrial production with radical abundance, as envisioned by Feynmann and Drexler. I believe AI can drive nanoscale fabrication and molecular robotic assembly.
 
 ## Publications & Talks
