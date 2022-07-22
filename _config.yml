@@ -23,3 +23,5 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
+
+theme: jekyll-theme-cayman
