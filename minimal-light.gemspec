@@ -4,9 +4,9 @@ Gem::Specification.new do |s|
   s.name          = 'minimal-light'
   s.version       = '1.0.0'
   s.license       = 'CC0-1.0'
-  s.authors       = ['Yaoyao Liu', 'MPI for Informatics']
-  s.email         = ['yaoyao.liu@mpi-inf.mpg.de']
-  s.homepage      = 'https://github.com/yaoyao-liu/minimal-light'
+  s.authors       = ['Samuel Fernando', 'MPI for Informatics']
+  s.email         = ['samuel.fernando@ufabc.edu.br']
+  s.homepage      = 'https://github.com/samfernano/samuel.fernando.github.io'
   s.summary       = 'Minimal Light is a Jekyll theme for academic GitHub Pages'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
