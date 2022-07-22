@@ -52,6 +52,10 @@ I write short articles in Portuguese about behavior in light of evolution on the
 - [Por que as mulheres estão se saindo melhor na gestão da pandemia? A evolução explica](https://etosocio.com/comportamento-humano/lideranca/)
 - [A pena capital nos tornou mais pacíficos?](https://etosocio.com/comportamento-humano/pena-de-morte/)
 
+## In Media Vita
+
+My personal blog where I write about psychoanalysis, behavior, mind and philosophy:
+
 
 
 
