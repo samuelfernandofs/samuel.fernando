@@ -37,5 +37,17 @@ Passionate about plethora of topics, I am also a psychoanalyst (in training), an
 
 ## Science Blogs
 
-I wrote short articles in Portuguese about behavior in light of evolution on the website etosocio.com
+I write short articles in Portuguese about behavior in light of evolution on the [etosocio.com]
+
 - [Conheça o povo Hadza, “os últimos dos primeiros”, e sua lição à humanidade](https://etosocio.com/comportamento-humano/hadza/)
+- [A homossexualidade tem base genética — e possivelmente graças a heterossexuais](https://etosocio.com/comportamento-humano/homossexualidade/)
+- [Como o cérebro do polvo pode contribuir para a inteligência artificial](https://etosocio.com/comportamento-animal/polvo/)
+- [Corvos têm consciência de si e raciocinam como pessoas](https://etosocio.com/comportamento-animal/corvos/)
+- [Por que as mulheres estão se saindo melhor na gestão da pandemia? A evolução explica](https://etosocio.com/comportamento-humano/lideranca/)
+- [A pena capital nos tornou mais pacíficos?](https://etosocio.com/comportamento-humano/pena-de-morte/)
+
+
+
+
+
+
