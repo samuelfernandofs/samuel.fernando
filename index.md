@@ -34,13 +34,18 @@ I founded Nano X in Brazil to advance the long-term progress of science and tech
 
 ## Publications & Talks
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Mirror Neurons Modeled Through Spike-Timing-Dependent Plasticity are Affected by Channelopathies Associated with Autism Spectrum Disorder**
+  <br> Gabriela Antunes, Samuel F Faria da Silva, Fabio M Simoes de Souza
+  <br> International Journal of Neural SystemsVol. 28, No. 05, 1750058 **2018**.
+  <br> [[Link](https://arxiv.org/pdf/2002.10211.pdf)]
+  
+- **Mirror Neurons Modeled Through Spike-Timing-Dependent Plasticity are Affected by Channelopathies Associated with Autism Spectrum Disorder**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  Gabriela Antunes, Samuel F Faria da Silva, Fabio M Simoes de Souza
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  International Journal of Neural SystemsVol. 28, No. 05, 1750058 **2018**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)]
 
 
 ## Science Blogs
