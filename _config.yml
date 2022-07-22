@@ -24,4 +24,4 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-merlot
