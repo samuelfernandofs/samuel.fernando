@@ -37,7 +37,7 @@ Passionate about plethora of topics, I am also a psychoanalyst (in training), an
 
 ## Science Blogs
 
-I write short articles in Portuguese about behavior in light of evolution on the [etosocio.com]
+I write short articles in Portuguese about behavior in light of evolution on the [etosocio.com](https://etosocio.com/):
 
 - [Conheça o povo Hadza, “os últimos dos primeiros”, e sua lição à humanidade](https://etosocio.com/comportamento-humano/hadza/)
 - [A homossexualidade tem base genética — e possivelmente graças a heterossexuais](https://etosocio.com/comportamento-humano/homossexualidade/)
