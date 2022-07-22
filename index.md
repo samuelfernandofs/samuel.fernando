@@ -19,10 +19,18 @@ Passionate about plethora of topics, I am also a psychoanalyst (in training), an
 
 ## Research & Projects
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Computational Neuroscience** 
+
+My research project was funded by Braziliam CNPQ and Fapesp in partnership with IBM Lab and Iran in the Cognitive Computing axis. 
+Our research investigated the role of mirror neurons, using computer modeling with altered ion channels in autism and also in language processing.
+
+- **Moral enhancement** 
+
+I believe in progressive human enhancement from a humanistic, liberal, inclusive and realistic point of view, through new technologies and scientifically informed strategies. That's why I'm working on a roadmap about advanced neurotechnologies and nanotechnologies for moral and cognitive enhancement, in principle in the forensic context.
+
+- **Atomically Precise Manufacturing** 
+
+I founded Nano X in Brazil to advance the long-term progress of science and technology towards atomically precise manufacturing, which is the future version of molecular nanotechnology enabled for industrial production with radical abundance, as envisioned by Feynmann and Drexler. I believe AI can drive nanoscale fabrication and molecular robotic assembly.
 
 ## Publications & Talks
 
