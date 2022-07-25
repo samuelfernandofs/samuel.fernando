@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Welcome! I am a Data Engineer applying big data tools and quantum computing to finance and advanced data manipulation in Blueshift Brazil.
+Welcome! I am a Data Engineer applying big data tools and quantum computing to finance and advanced data manipulation in [Blueshift](https://blueshift.com.br/), A Microsoft LATAM Partner. 
 
-Originally from Americana, Sao Paulo, I studied Biological Science at the Pontifical Catholic University of Campinas, and I was a research scholarship at Universidade Federal do ABC with a computational neuroscience project in partnership with IBM Brazil. Also, I am the founder of NanoX, a project for progress of advanced atomically precise manufacturing AI-driven.
+Originally from Americana, Sao Paulo, I studied Biological Science at the Pontifical Catholic University of Campinas, and I was a research scholarship at Universidade Federal do ABC with a [computational neuroscience](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/) project in partnership with IBM Brazil. Also, I am the founder of [NanoX](https://www.linkedin.com/company/nanoxai2030/), a project for progress of advanced atomically precise manufacturing AI-driven.
 
 Passionate about plethora of topics, I am also a psychoanalyst (in training), and an avid reader in philosophy, economy, history, and literature. I advocate global impact solutions for green-technologies, life-extension, space mining, brain preservation, poverty reduction strategies, women's and minority empowerment, and moral and cognitive enhancement.
 
@@ -20,8 +20,8 @@ Passionate about plethora of topics, I am also a psychoanalyst (in training), an
 ## Research & Projects
 
 - **Computational Neuroscience** <br>
-My research project was funded by Braziliam CNPQ and Fapesp in partnership with IBM Lab and Iran in the Cognitive Computing axis. 
-Our research investigated the role of mirror neurons, using computer modeling with altered ion channels in autism and also in language processing.
+My research project received a funding by Braziliam CNPQ and Fapesp in [partnership](https://bv.fapesp.br/pt/4/pesquisa-em-parceria-para-inovacao-tecnologica-pite/) with IBM Lab and Iran in the Cognitive Computing. 
+Our research investigated the role of [mirror neurons](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/), using computer modeling with altered ion channels in autism and also in language processing.
 
 - **Moral Enhancement** <br>
 I believe in progressive human enhancement from a humanistic, liberal, inclusive and realistic point of view, through new technologies and scientifically informed strategies. That's why I'm working on a roadmap about advanced neurotechnologies and nanotechnologies for moral and cognitive enhancement, in principle in the forensic context.
@@ -33,7 +33,7 @@ I founded Nano X in Brazil to advance the long-term progress of science and tech
 
 - **Mirror Neurons Modeled Through Spike-Timing-Dependent Plasticity are Affected by Channelopathies Associated with Autism Spectrum Disorder**
   Gabriela Antunes, Samuel F Faria da Silva, Fabio M Simoes de Souza -
-  International Journal of Neural SystemsVol. 28, No. 05, 1750058 **2018**. [[Link](https://arxiv.org/pdf/2002.10211.pdf)]
+  International Journal of Neural SystemsVol. 28, No. 05, 1750058 **2018**. [[Link](https://pubmed.ncbi.nlm.nih.gov/29297264/)]
 - **Computational Simulation of Mirror Neurons Through of the STDP** VI Scientific Initiation Meeting 2017, Federal University of ABC, Santo Andre, Sao Paulo.
 - **Mirror Neurons on Computational Condutance-Based Model and Implications with Autism** XV Brazilian Society for Neuroscience and Behavior, 2017 Araraquara, Sao Paulo.
 - **Neural Mirroring in Integrate-and-Fire Model** II Conference on Bioathematical, Unicamp, Campinas, Sao Paulo.
@@ -51,7 +51,7 @@ I write short articles in Portuguese about behavior in light of evolution on the
 
 ## In Media Vita
 
-My personal blog where I write about psychoanalysis, mind and philosophy
+My personal blog where I write about psychoanalysis, mind and philosophy.
 
 
 
