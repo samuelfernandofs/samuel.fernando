@@ -13,7 +13,7 @@ Passionate about plethora of topics, I am also a psychoanalyst (in training), an
 ## Skills
 
 - **Big data:** Data Manipulation, ETL/ELT, Data Factory, Spark/Pypark, 
-- **Analytics:** Business Inteligence, Services Analysis, DAX
+- **Analytics:** Business Inteligence, Data Modeling, Analysis Services, DAX
 - **Languages:** Python, SQL, R
 - **Quantum Computing:** Azure Quantum, Quantum Data Encoding 
 
