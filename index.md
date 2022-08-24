@@ -41,7 +41,7 @@ I founded [NanoX](https://github.com/samuelfernandos/Nano_AIDriven) in Brazil to
 
 ## Science Blogs
 
-I write short articles in Portuguese about behavior in light of evolution on the [etosocio.com](https://etosocio.com/):
+I write short articles in Portuguese about behavior and evolution on the [etosocio.com](https://etosocio.com/):
 
 - [Conheça o povo Hadza, “os últimos dos primeiros”, e sua lição à humanidade](https://etosocio.com/comportamento-humano/hadza/)
 - [A homossexualidade tem base genética — e possivelmente graças a heterossexuais](https://etosocio.com/comportamento-humano/homossexualidade/)
