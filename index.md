@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I am a Data Engineer applying big data tools and quantum computing to finance and advanced data manipulation in [Blueshift](https://blueshift.com.br/), a Microsoft LATAM Partner. 
+Welcome! I am a Data Engineer applying big data tools and quantum computing to finance and advanced data analytics in [Blueshift](https://blueshift.com.br/), a Microsoft LATAM Partner. 
 
 Originally from Americana, Sao Paulo, I studied Biological Science at the Pontifical Catholic University of Campinas, and I was a research scholarship at Universidade Federal do ABC with a [computational neuroscience](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/) project in partnership with IBM Brazil. Also, I am the founder of [NanoX](https://www.linkedin.com/company/nanoxai2030/), a project for progress of advanced [Atomically Precise Manufacturing AI-Driven](https://github.com/samuelfernandos/Nano_AIDriven).
 
@@ -12,10 +12,11 @@ Passionate about plethora of topics, I am also a psychoanalyst (in training), an
 
 ## Skills
 
-- **Big data:** Data Manipulation, ETL/ELT, Data Factory, Spark/Pypark, 
+- **Data Engineer:** ETL/ELT, Azure, Spark/Pypark, Data Manipulation
 - **Analytics:** Business Inteligence, Data Modeling, Analysis Services, DAX
 - **Languages:** Python, SQL, R
 - **Quantum Computing:** Azure Quantum, Quantum Data Encoding 
+- **Computational Neuroscience:** Biological Neural Networks, Language Modeling, NetPyNe 
 
 ## Research & Projects
 
@@ -24,7 +25,7 @@ My research project received a funding by Braziliam CNPQ and Fapesp in [partners
 Our research investigated the role of [mirror neurons](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/), using computer modeling with altered ion channels in autism and also in language processing.
 
 - **Moral Enhancement** <br>
-I believe in progressive human enhancement from a humanistic, liberal, inclusive and realistic point of view, through new technologies and scientifically informed strategies. That's why I'm working on a roadmap about advanced neurotechnologies and nanotechnologies for moral and cognitive enhancement, in principle in the forensic context.
+I believe in progressive human enhancement from a humanistic, liberal, inclusive and realistic point of view, through new technologies and scientifically informed strategies. That's why I'm working on a roadmap about advanced neurotechnologies and nanotechnologies for moral and cognitive enhancement, in principle in the forensic and war context.
 
 - **Atomically Precise Manufacturing** <br>
 I founded [NanoX](https://github.com/samuelfernandos/Nano_AIDriven) in Brazil to advance the long-term progress of science and technology towards atomically precise manufacturing, which is the future version of molecular nanotechnology enabled for industrial production with radical abundance, as envisioned by Feynmann and [Drexler](https://www.amazon.com.br/Nanosystems-Molecular-Machinery-Manufacturing-Computation/dp/047157547X/ref=sr_1_6?qid=1658789654&refinements=p_27%3AK.+Eric+Drexler&s=books&sr=1-6&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147). I believe AI can drive nanoscale fabrication and molecular robotic assembly.
