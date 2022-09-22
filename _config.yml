@@ -10,18 +10,4 @@ avatar: https://photos.app.goo.gl/SNRkaE8u4s3U3N59A
 google_analytics: UA-111540567-4
 favicon: https://photos.app.goo.gl/SNRkaE8u4s3U3N59A
 favicon_dark: https://photos.app.goo.gl/SNRkaE8u4s3U3N59A
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
-remote_theme: yaoyao-liu/minimal-light
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
-  - LICENSE
-  - minimal-light.gemspec
-
-theme: jekyll-theme-merlot
