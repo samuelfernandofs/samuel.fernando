@@ -6,10 +6,10 @@ keywords: minimal academic
 google_scholar: https://scholar.google.com/citations?hl=en&user=chszpPcAAAAJ
 github_link: https://github.com/samuelfernandofs
 linkedin: https://www.linkedin.com/in/samuelfernando2030/
-avatar: https://photos.app.goo.gl/8uCX25YEaH74iDkZ7 
+avatar: https://photos.app.goo.gl/SNRkaE8u4s3U3N59A 
 google_analytics: UA-111540567-4
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: https://photos.app.goo.gl/SNRkaE8u4s3U3N59A
+favicon_dark: https://photos.app.goo.gl/SNRkaE8u4s3U3N59A
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
