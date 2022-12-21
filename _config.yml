@@ -1,19 +1,32 @@
+# Basic Information 
 title: Samuel Fernando
-position: Data Analytics Engineer
-affiliation: Blueshift Brasil
-email: samuel.silva@blueshift.com.br
-keywords: minimal academic
-google_scholar: https://scholar.google.com/citations?hl=en&user=chszpPcAAAAJ
-github_link: https://github.com/samuelfernandofs
-linkedin: https://www.linkedin.com/in/samuelfernando2030/
-google_analytics: UA-111540567-4
+position: Ph.D. Candidate
+affiliation: Max Planck Institute for Informatics
+affiliation_link: https://www.mpi-inf.mpg.de/
+email: yaoyao.liu (at) mpi-inf.mpg.de
+
+# Search Engine Optimization (SEO)
+keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
+canonical: https://www.mpi-inf.mpg.de/~yaliu/
+description: Yaoyao Liu is a Ph.D. candidate at Max Planck Institute for Informatics. His research lies in meta-learning, incremental learning, and image generation.
+
+# The option is used to enable the MPI Informatics template.
+enable_mpi_logo: true
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
+cv_link: https://files.yliu.me/Yaoyao_Liu_Curriculum_Vitae.pdf
+github_link: https://github.com/yaoyao-liu/
+linkedin: https://www.linkedin.com/in/liuyaoyao/
+twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
 avatar: https://img.yliu.me/avatar.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-#favicon: https://photos.app.goo.gl/SNRkaE8u4s3U3N59A
-#favicon_dark: https://photos.app.goo.gl/SNRkaE8u4s3U3N59A
 
 # Footnotes
 footnote: Feel free to use my website's source code.
@@ -28,3 +41,12 @@ clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
 # If you don't need to add the GDPR information, you may remove the following lines.
 imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
 data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - minimal-light.gemspec
+  - CNAME
