@@ -29,9 +29,10 @@ I founded [NanoX](https://github.com/samuelfernandos/Nano_AIDriven) in Brazil to
 
 ## News
 
-- **[Nov. 2022]** Our paper about [class-incremental learning](https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content) is accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).
+- **[Jan. 2023]** Talk about nanotechnology, artificial intelligence and brain-cloud interface for the podcast [Territorio Livre]([https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content](https://www.spreaker.com/show/territorio-livre_1))
 - **[Dec. 2022]** Lecture at Federal University of Sao Paulo [IV Workshop do Departamento de Física](https://www.youtube.com/watch?v=cehU5hTxSZc&t=263s).
 - **[Oct. 2022]** Lecture at UNIVIÇOSA: Quantum, growth and opportunities of quantum computing in the market. [https://eventos.univicosa.com.br/](https://eventos.univicosa.com.br/evento/quantum-crescimento-e-oportunidades-da-computacao-quantica-no-mercado).
+- **[Oct.2022]** Quantum Computational Complexity Presentation for the [Blueshift Brazil Quantum Computing Team](https://blueshift.com.br/)
 
 ## Publications & Talks
 
