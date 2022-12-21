@@ -6,9 +6,7 @@ layout: homepage
 
 Welcome! I am a Data Engineer applying big data tools and quantum computing to finance and advanced data analytics in [Blueshift](https://blueshift.com.br/), a Microsoft LATAM Partner. Also, I am clinical Psychotherapist on training under the supervision of Dr. Francisco Daudt da Veiga.
 
-Originally from Americana, Sao Paulo, I studied Biological Science at the Pontifical Catholic University of Campinas, and I was a research scholarship at Universidade Federal do ABC with a [computational neuroscience](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/) project in partnership with IBM Brazil. 
-
-I am the founder of [NanoX](https://www.linkedin.com/company/nanoxai2030/), for long-term progress of advanced Molecular Nanotechnology AI-Driven a project for [Atomically Precise Manufacturing AI-Driven](https://github.com/samuelfernandos/Nano_AIDriven).
+Originally from Americana, Sao Paulo, I studied Biological Science at the Pontifical Catholic University of Campinas, and I was a research scholarship at Universidade Federal do ABC with a [computational neuroscience](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/) project in partnership with IBM Brazil. Also, I am the founder of [NanoX](https://www.linkedin.com/company/nanoxai2030/), for long-term progress of advanced Molecular Nanotechnology AI-Driven a project for [Atomically Precise Manufacturing AI-Driven](https://github.com/samuelfernandos/Nano_AIDriven).
 
 Passionate about plethora of topics, I am also a psychoanalyst (in training), and an avid reader in philosophy, economy, history, and literature. I advocate global impact solutions for green-technologies, life-extension, space mining, brain preservation, poverty reduction strategies, women's and minority empowerment, and moral and cognitive enhancement.
 
