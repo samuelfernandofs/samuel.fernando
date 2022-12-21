@@ -42,6 +42,10 @@ I founded [NanoX](https://github.com/samuelfernandos/Nano_AIDriven) in Brazil to
 - **Mirror Neurons on Computational Condutance-Based Model and Implications with Autism** XV Brazilian Society for Neuroscience and Behavior, 2017 Araraquara, Sao Paulo.
 - **Neural Mirroring in Integrate-and-Fire Model** II Conference on Bioathematical, Unicamp, Campinas, Sao Paulo.
 
+## Teaching
+
+- Teaching Consultant Data Science for Course Deep Learning & Neural Networks at [Cogna Educação](https://www.kroton.com.br/), 2022 and 2023
+
 ## Science Blogs
 
 I write short articles in Portuguese about behavior and evolution on the [etosocio.com](https://etosocio.com/):
