@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I am a Data Engineer applying big data tools and quantum computing to finance and advanced data analytics in [Blueshift](https://blueshift.com.br/), a Microsoft LATAM Partner. Also, I am clinical Psychotherapist on training under the supervision of Dr. Francisco Daudt da Veiga.
+Welcome! I am a Senior Risk Data Engineer applying big data tools and advanced finance analytics in [F1RST Technology Santander] (https://www.santander.com.br/). Also, I am clinical Psychotherapist on training under the supervision of Dr. Francisco Daudt da Veiga.
 
 Originally from Americana, Sao Paulo, I studied Biological Science at the Pontifical Catholic University of Campinas, and I was a research scholarship at Universidade Federal do ABC with a [computational neuroscience](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/) project in partnership with IBM Brazil.
 
