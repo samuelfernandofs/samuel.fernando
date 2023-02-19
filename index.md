@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I am a Senior Risk Data Engineer applying big data tools and advanced finance analytics in [F1RST Technology Santander] (https://www.santander.com.br/). Originally from Americana, Sao Paulo, I studied Biological Science at the Pontifical Catholic University of Campinas, and I was a research scholarship at Universidade Federal do ABC with a [computational neuroscience](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/) project in partnership with IBM Brazil.
+Welcome! I am a Senior Risk Data Engineer applying big data tools and advanced finance analytics in [F1RST Technology Santander](https://www.santander.com.br/). Originally from Americana, Sao Paulo, I studied Biological Science at the Pontifical Catholic University of Campinas, and I was a research scholarship at Universidade Federal do ABC with a [computational neuroscience](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/) project in partnership with IBM Brazil.
 
 Passionate about plethora of topics, I am also a psychoanalyst (in training), and an avid reader in philosophy, economy, history, and literature. I advocate global impact solutions for green-technologies, life-extension, space mining, brain preservation, poverty reduction strategies, women's and minority empowerment, and moral and cognitive enhancement.
 
